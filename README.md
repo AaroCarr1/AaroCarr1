@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&width=435&lines=Wake+up+Neo!;Your+now+in+Advanced+Data.;Follow+the+mentors.;Knock%2C+knock..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=01A201&width=435&lines=Wake+up%2C+Neo.;You're+now+in+Advanced+Data.+;Follow+the+mentors.;Knock%2C+Knock...)](https://git.io/typing-svg)
